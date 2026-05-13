@@ -1,6 +1,9 @@
 <!-- ============== HEADER BANNER (dual theme) ============== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=200&section=header&text=frixatrix%20%28Artem%20U.%29&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=QA%20Architect%20%E2%80%A2%20Problem%20Solver%20%E2%80%A2%20Process%20Builder&descSize=18&descAlignY=60&descAlign=50&animation=fadeIn#gh-dark-mode-only" alt="header" width="100%"/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e2e8f0,100:cbd5e1&height=200&section=header&text=frixatrix%20%28Artem%20U.%29&fontSize=70&fontColor=0f172a&fontAlignY=38&desc=QA%20Architect%20%E2%80%A2%20Problem%20Solver%20%E2%80%A2%20Process%20Builder&descSize=18&descAlignY=60&descAlign=50&animation=fadeIn#gh-light-mode-only" alt="header" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=200&section=header&text=frixatrix%20%28Artem%20U.%29&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=QA%20Architect%20%E2%80%A2%20Problem%20Solver%20%E2%80%A2%20Process%20Builder&descSize=18&descAlignY=60&descAlign=50&animation=fadeIn"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:e2e8f0,100:cbd5e1&height=200&section=header&text=frixatrix%20%28Artem%20U.%29&fontSize=70&fontColor=0f172a&fontAlignY=38&desc=QA%20Architect%20%E2%80%A2%20Problem%20Solver%20%E2%80%A2%20Process%20Builder&descSize=18&descAlignY=60&descAlign=50&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=200&section=header&text=frixatrix%20%28Artem%20U.%29&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=QA%20Architect%20%E2%80%A2%20Problem%20Solver%20%E2%80%A2%20Process%20Builder&descSize=18&descAlignY=60&descAlign=50&animation=fadeIn" alt="header" width="100%"/>
+</picture>
 
 
 <!-- ============== ANIMATED TAGLINE ============== -->
@@ -129,6 +132,9 @@ I help engineering orgs ship faster without breaking trust — through pragmatic
   </a>
 </p>
 <!-- ============== FOOTER WAVE (dual theme) ============== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=120&section=footer&animation=fadeIn#gh-dark-mode-only" width="100%"/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:cbd5e1,100:e2e8f0&height=120&section=footer&animation=fadeIn#gh-light-mode-only" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=120&section=footer&animation=fadeIn"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:cbd5e1,100:e2e8f0&height=120&section=footer&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=120&section=footer&animation=fadeIn" alt="footer" width="100%"/>
+</picture>
 
