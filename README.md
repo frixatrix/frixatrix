@@ -1,9 +1,5 @@
-<!-- ============== HEADER BANNER (dual theme) ============== -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f172a,100:1e293b&amp;height=200&amp;section=header&amp;text=frixatrix%20%28Artem%20U.%29&amp;fontSize=70&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=QA%20Architect%20%E2%80%A2%20Problem%20Solver%20%E2%80%A2%20Process%20Builder&amp;descSize=18&amp;descAlignY=60&amp;descAlign=50&amp;animation=fadeIn"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0:e2e8f0,100:cbd5e1&amp;height=200&amp;section=header&amp;text=frixatrix%20%28Artem%20U.%29&amp;fontSize=70&amp;fontColor=0f172a&amp;fontAlignY=38&amp;desc=QA%20Architect%20%E2%80%A2%20Problem%20Solver%20%E2%80%A2%20Process%20Builder&amp;descSize=18&amp;descAlignY=60&amp;descAlign=50&amp;animation=fadeIn"/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f172a,100:1e293b&amp;height=200&amp;section=header&amp;text=frixatrix%20%28Artem%20U.%29&amp;fontSize=70&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=QA%20Architect%20%E2%80%A2%20Problem%20Solver%20%E2%80%A2%20Process%20Builder&amp;descSize=18&amp;descAlignY=60&amp;descAlign=50&amp;animation=fadeIn" alt="header" width="100%"/>
-</picture>
+<!-- ============== HEADER BANNER ============== -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e2e8f0,100:cbd5e1&height=200&section=header&text=frixatrix%20%28Artem%20U.%29&fontSize=70&fontColor=0f172a&fontAlignY=38&desc=QA%20Architect%20%E2%80%A2%20Problem%20Solver%20%E2%80%A2%20Process%20Builder&descSize=18&descAlignY=60&descAlign=50&animation=fadeIn" alt="header" width="100%"/>
 
 
 <!-- ============== ANIMATED TAGLINE ============== -->
@@ -47,6 +43,7 @@ I help engineering orgs ship faster without breaking trust — through pragmatic
 ## `~/stack`
 
 <table>
+  
 <tr>
 <td valign="top" width="50%">
 
@@ -131,10 +128,6 @@ I help engineering orgs ship faster without breaking trust — through pragmatic
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="x"/>
   </a>
 </p>
-<!-- ============== FOOTER WAVE (dual theme) ============== -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1e293b,100:0f172a&amp;height=120&amp;section=footer&amp;animation=fadeIn"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0:cbd5e1,100:e2e8f0&amp;height=120&amp;section=footer&amp;animation=fadeIn"/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1e293b,100:0f172a&amp;height=120&amp;section=footer&amp;animation=fadeIn" alt="footer" width="100%"/>
-</picture>
+<!-- ============== FOOTER WAVE ============== -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e2e8f0,100:cbd5e1&height=120&section=footer&reversal=true&animation=fadeIn" alt="footer" width="100%"/>
 
